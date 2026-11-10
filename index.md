@@ -3,12 +3,12 @@ layout: default
 title: DSC 180A Methodology Assignment 4
 ---
 
-# DSC 180A — Methodology Assignment 4
+# DSC 180A: Methodology Assignment 4
 
 **Name:** Prabhjas Singh  
 **UCSD Email:** prs018@ucsd.edu  
-**Section/Domain:** D27 — Steering and Monitoring LLMs  
-**Mentor:** Umesh Bellur
+**Section/Domain:** D27- Steering and Monitoring LLMs  
+**Mentor:** Misha Belkin and Tianhao Wang
 
 ## Quarter 2 Project Reflection
 
